@@ -16,13 +16,13 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>Travel Website</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat rerum et perspiciatis, est reprehenderit vero eius commodi aut pariatur adipisci aliquid tempore quod exercitationem, laborum quidem blanditiis dolor perferendis ex.
         </p>
       </div>
       <p className="read-the-docs">

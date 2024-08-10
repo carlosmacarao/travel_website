@@ -3,7 +3,7 @@ import './App.css'
 
 function App() {
 
-  const Pessoa {
+  const Pessoa = {
     id: 1,
     nome: 'Abv',
     idade: 22

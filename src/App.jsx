@@ -7,6 +7,7 @@ function App() {
   novoItem = 0
   let lista = []
   lista.push(2)
+  lista.push(4, 8, 9, 6)
 
   return (
     <>

@@ -5,6 +5,8 @@ function App() {
 
   let novoItem = document.querySelector('btn')
   novoItem = 0
+  let lista = []
+  lista.push(2)
 
   return (
     <>

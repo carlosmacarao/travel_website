@@ -3,6 +3,12 @@ import './App.css'
 
 function App() {
 
+  const Pessoa {
+    id: 1,
+    nome: 'Abv',
+    idade: 22
+  }
+
   let novoItem = document.querySelector('btn')
   novoItem = 0
   let lista = []

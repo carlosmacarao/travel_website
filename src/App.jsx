@@ -10,7 +10,8 @@ function App() {
   }
 
   const Pessoas = {
-    
+    name: 'Carlos',
+    age: 22
   }
 
   let novoItem = document.querySelector('btn')

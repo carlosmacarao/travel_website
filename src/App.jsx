@@ -9,6 +9,10 @@ function App() {
     idade: 22
   }
 
+  const Pessoas = {
+    
+  }
+
   let novoItem = document.querySelector('btn')
   novoItem = 0
   let lista = []

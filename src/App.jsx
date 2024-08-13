@@ -14,6 +14,8 @@ function App() {
     age: 22
   }
 
+  let pessoa = new Pessoa()
+
   let novoItem = document.querySelector('btn')
   novoItem = 0
   let lista = []
